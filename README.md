@@ -10,6 +10,17 @@ Customer churn—also known as customer attrition—refers to customers stopping
 
 ---
 
+## 📸 Screenshots
+
+### Churn Analysis Dashboard
+![Summary of data](Summary.png)
+
+### Model Evaluation
+![Churn Prediction](Prediction.png)
+
+---
+
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python
